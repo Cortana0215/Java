@@ -1,4 +1,7 @@
-package com.itheima.demo02;
+package org.example;
+
+import com.itheima.demo02.CglibProxy;
+import com.itheima.demo02.UserDao;
 
 public class CglibTest {
     public static void main(String[] args) {
